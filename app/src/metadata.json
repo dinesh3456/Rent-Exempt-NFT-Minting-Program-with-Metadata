@@ -1,0 +1,37 @@
+{
+    "name": "My Solana NFT",
+    "symbol": "SNFT",
+    "description": "This is a sample NFT created on Solana blockchain with Anchor and Metaplex",
+    "image": "https://gateway.pinata.cloud/ipfs/bafybeiairvxeheklmxdptzvwg6pk6z2uyv44d4ixmy7342pmxmkbhkgkvq", 
+    "animation_url": "",
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Category",
+        "value": "Sample"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://gateway.pinata.cloud/ipfs/bafybeiairvxeheklmxdptzvwg6pk6z2uyv44d4ixmy7342pmxmkbhkgkvq",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "3uvqTyavZDHXbrbupuxV31RdP96XntWaCUvdBB5jJnD9",
+          "share": 100
+        }
+      ]
+    }
+  }
