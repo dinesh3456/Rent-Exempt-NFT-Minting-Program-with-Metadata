@@ -51,3 +51,6 @@ Run the test suite with:
 ```bash
 anchor test
 ```
+![Devnet transaction screenshot](image.png)
+
+devnet transaction: https://solscan.io/token/GUWXfn2Zye3QDtraptHT4r1iYRuGuRdYUKx1gvtGBuRQ?cluster=devnet
